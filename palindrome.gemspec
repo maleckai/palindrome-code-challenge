@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Palindrome::VERSION
   spec.authors       = ["Benjamin Dawson"]
   spec.email         = ["bendawson.rb@gmail.com"]
-  spec.summary       = %q{TODO: Write a short summary. Required.}
-  spec.description   = %q{TODO: Write a longer description. Optional.}
+  spec.summary       = %q{Palindrome Checker}
+  spec.description   = %q{A function that will take a string as input, and output true or false depending on whether or not it is a palindrome}
   spec.homepage      = ""
   spec.license       = "MIT"
 
