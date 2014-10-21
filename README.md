@@ -2,7 +2,7 @@
 
 A function that will take a string as input, and output true or false depending on whether or not it is a palindrome.
 
-This was created as part of a code challenge, and had the additional restriction that any language build in string reverse functions could not be used.
+This was created as part of a code challenge, and had the additional restriction that any built in string reverse functions could not be used.
 
 ## Installation
 
