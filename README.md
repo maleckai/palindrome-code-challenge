@@ -30,7 +30,7 @@ to check if the inputted string is a palindrome.
 
 ## Contributing
 
-1. Fork it ( https://github.com/[my-github-username]/palindrome/fork )
+1. Fork it ( https://github.com/maleckai/palindrome/fork )
 2. Create your feature branch (`git checkout -b my-new-feature`)
 3. Commit your changes (`git commit -am 'Add some feature'`)
 4. Push to the branch (`git push origin my-new-feature`)
