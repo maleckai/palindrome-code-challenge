@@ -1,26 +1,32 @@
-# Palindrome
+# Palindrome Checker
 
-TODO: Write a gem description
+A function that will take a string as input, and output true or false depending on whether or not it is a palindrome.
+
+This was created as part of a code challenge, and had the additional restriction that any language build in string reverse functions could not be used.
 
 ## Installation
 
 Add this line to your application's Gemfile:
 
 ```ruby
-gem 'palindrome'
+gem 'palindrome', :git => 'https://github.com/maleckai/palindrome-code-challenge.git'
 ```
 
 And then execute:
 
     $ bundle
 
-Or install it yourself as:
+Or install it yourself by pulling down the repository and then running:
 
-    $ gem install palindrome
+    $ rake install
 
 ## Usage
 
-TODO: Write usage instructions here
+Run
+ 
+    $ palindrome <string>
+
+to check if the inputted string is a palindrome.
 
 ## Contributing
 

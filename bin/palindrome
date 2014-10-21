@@ -1,0 +1,9 @@
+#!/usr/bin/env ruby
+
+require 'palindrome'
+
+if ARGV.length != 1
+  puts "You must input only 1 string"
+else
+  puts Palindrome::palindrome?(ARGV[0])
+end
